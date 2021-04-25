@@ -46,7 +46,7 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225682/index.m3u8?
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://111.12.102.68:6610/PLTV/77777777/224/3221225691/index.m3u8?
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",爱历史
-http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1619364085/ei/lTSFYIbLOIfm4wKU_LLACQ/ip/23.91.101.70/id/u7XW7iEpqp8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-i3belnl6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/17080/mh/oi/mm/44/mn/sn-i3belnl6/ms/lva/mv/m/mvi/2/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1619342182/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgNrHeM6XVqajx1oOBKoGe2FZFxdJwvrXgPBrOSpCNBpQCIENBSYnjKBO3H2lxf8iL4TSn64B3DOjbxIgI0cW9QROL/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhANnqTqYtczEIqULrsV9YQyIyvP40wF93FlzMnmszHMKKAiEAlC2ULFMi6ln9FO8EMWrashU6G3DQZH2bMpW012HSwN0%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱军武
 http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军事评论
