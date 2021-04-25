@@ -4,7 +4,7 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225787/index.m3u8?
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
 http://223.110.241.149:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中天新闻
-http://v3948069e.live.126.net/live/us01/tw20210216zhongtiannews.flv
+https://www.youtube.com/watch?v=u7XW7iEpqp8&ab_channel=%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
